@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "分享技术人学习有用的国外网站"
 date:   2019-08-28 16:15:21 +0800
-categories: technology article
+categories: technology
 ---
 
-##### 当你遇到困境时
+#### 当你遇到困境时
 
 Stack Overflow   Website: 订阅他们的每周时事通讯和其他你感兴趣的话题  
 Quora   Website: 分享知识、更好地了解世界的地方  
@@ -13,7 +13,7 @@ Learn Anything   Website: 策划知识图的社区，在那里可以找到学习
 devRant  Website : 社区，在那里你可以咆哮和宣泄你的压力  
 Codementor   Website: 导师式社区，可以通过1对1的帮助等在同行开发人员的指导下学习  
 
-##### 新闻
+#### 新闻
 
 Hacker News  Website : 程序员的新闻聚合，在那里礼貌为王，尝试以一篇时事通讯在你的收件箱里获取头条新闻  
 Hacker Newsletter  Website : 手动策划，每周发布  
@@ -30,7 +30,7 @@ AlternativeTo  Website : 众包软件推荐
 Better Dev Links   Website: 助力你成为更佳开发人员的每周链接  
 DevOpsLinks  Website : 对 DevOps 感兴趣的数以千计的开发人员和 IT 专家的网络社区  
 
-##### 初学者的编码实践
+#### 初学者的编码实践
 
 freeCodeCamp  Website : 学习为非盈利组织编写和构建项目。今天就构建你的全栈网页开发组合  
 Reddit.com/r/dailyprogrammer   Website: 有趣的编程挑战，在那里你可以观摩和学习他人的代码，即使你不能以代码解决问题，你也可以看看别人如何解决。 
@@ -45,14 +45,14 @@ People Can Program   Website: 网络上最对用户友好的学习编码的应�
 Codeacademy   Website: 交互式学习编码，免费。  
 Vim adventures  Website : 通过玩来学习 VIM  
 
-##### 想开始一个小项目却找不到点子？
+#### 想开始一个小项目却找不到点子？
 
 martyr2s-mega-project-ideas-list  Website : 包含从初学者到中级水平的大约 125 个项目点子（https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be）  
 karan/Projects  Website : 大量的小项目，供初学者选用（https://github.com/karan/Projects）  
 Wrong “big projects” for beginners  Website : 如何选择从哪里开始（rodiongork.tumblr.com/post/108155476418/wrong-big-projects-for-beginners）  
 vicky002/1000-Projects  Website : 可以凭任意编程语言实现的实际项目的巨长清单（https://github.com/vicky002/1000_Projects）  
 
-##### 一般编码建议
+#### 一般编码建议
 
 Things I Wish Someone Had Told Me When I Was Learning How to Code — Free Code Camp   Website: 我从教别人中学到了什么（https://medium.freecodecamp.com/things-i-wish-someone-had-told-me-when-i-was-learning-how-to-code-565fc9dcb329?gi=fc6d0a309be）  
 Lessons From A Lifetime Of Being A Programmer   Website: 来自终身程序员的编程者头条教训（http://thecodist.com/article/lessons_from_a_lifetime_of_being_a_programmer）  
@@ -67,7 +67,7 @@ Software design pattern   Website: 设计模式的全集（https://en.wikipedia.
 Design Patterns  Website : 以示例详细解释设计模式（https://sourcemaking.com/design_patterns）  
 JS Project Guidelines  Website : 一组 JavaScript 项目的最佳实践（https://github.com/wearehive/project-guidelines）  
 
-##### 编程风格
+#### 编程风格
 
 CS 106B Coding Style Guide   Website: 制作意大利面条的人必看（http://stanford.edu/class/archive/cs/cs106b/cs106b.1158/styleguide.shtml）  
 Google C++ Style Guide  Website（https://google.github.io/styleguide/cppguide.html）  
@@ -82,13 +82,13 @@ Directory of Online CS Courses   Website: 免费的计算机科学的线上课�
 Directory of CS Courses  Website: 计算机科学的另一套线上课程（https://github.com/prakhar1989/awesome-courses）  
 Angular 1 Style Guide   Website: 官方认可的风格指南，作者 John Papp（https://github.com/johnpapa/angular-styleguide/tree/master/a1）  
 
-##### 一般工具
+#### 一般工具
 
 regex101  Website : 线上正则表达式测试器和调试器：PHP、 PCRE、 Python、 Golang 和 JavaScript（https://regex101.com/）  
 CodePen   Website：前端开发人员的游乐场兼浏览器版代码编辑器（https://codepen.io/）  
 Devicons   Website: 给开发人员的图标的备忘单（http://vorillaz.github.io/devicons/#/main）  
 
-##### 面试的准备
+#### 面试的准备
 
 Pramp 软件工程师自由点播的面试实践平台 Website :与真正的同行练习程序员的面试。   
 GeeksforGeeks 给极客的计算机科学门户网站 Website : 同时订阅他们的提要以获得新文章的链接。    
@@ -149,7 +149,7 @@ Determining the big-O runtimes of these different loops?   Website: 真地很好
 ChiperSoft/InterviewThis   Website: 面试时要问的问题以更多地了解公司（https://github.com/ChiperSoft/InterviewThis）  
 SQL 面试问题   Website: 很棒的 SQL 测试（https://www.jitbit.com/news/181-jitbits-sql-interview-questions/）  
 
-###### 学习新知识的慕课网
+##### 学习新知识的慕课网
 
 Class Central   Website: 数以千计的慕课课程的10万多的学生评论目录  
 Coursera.org  Website  
@@ -163,7 +163,7 @@ CS50  Website（https://www.youtube.com/user/cs50tv/videos）
 prakhar1989/awesome-CS-courses   Website: 囊括了大量计算机科学课程的列表（https://github.com/prakhar1989/awesome-courses/blob/master/README.md）  
 Computer Science Resources  Website : 给自学者的慕课课程列表（https://docs.google.com/spreadsheets/d/1BD8BJJUNaX63m2QmySWMGDp71nx4W4MyyiIBlfMoN3Q/htmlview?sle=true#）  
 
-##### 与你的首选编程语言相关的网站
+#### 与你的首选编程语言相关的网站
 
 重温 Java   Website: 有益于 Java 语言学习和面试准备（http://javarevisited.blogspot.in/）  
 The Java™教程  Website : 最好的 Java 教程（https://docs.oracle.com/javase/tutorial/）  
@@ -194,7 +194,7 @@ Bjarne Stroustru的问与答  Website : C++ 问与答（http://www.stroustrup.co
 Bjarne Stroustrup的 C++ 风格以及技术问答  Website : C++ 问与答（http://www.stroustrup.com/bs_faq2.html）  
 C++11 -  ISO C++ 的新标准  Website : C++11 问与答（http://www.stroustrup.com/C++11FAQ.html）  
 
-##### 学习人工智能
+#### 学习人工智能
 
 What’s the difference between AI- DP and ML?  Website : 人工智能、机器学习和深度学习的区别（https://blogs.nvidia.com/blog/2016/07/29/whats-difference-artificial-intelligence-machine-learning-deep-learning-ai/）  
 Unsupervised Sentiment Neuron  Website : 无人监控的情绪神经元（https://blog.openai.com/unsupervised-sentiment-neuron/）  
@@ -202,11 +202,11 @@ Robots that learn   Website: 会学习的机器人（https://blog.openai.com/rob
 grakn.ai  Website : 针对 AI 的数据库（https://grakn.ai/）  
 fast.ai   Website: 给非研究生水平的程序员的免费的深度学习的实践课程！  
 
-##### 凡事汇聚一处
+#### 凡事汇聚一处
 
 reddit.com/user/ashish2199/m/cs_student_subs   Website: 计算机科学和编程相关的 reddit 话题汇总（https://www.reddit.com/user/ashish2199/m/cs_student_subs/）  
 
-##### 好文章
+#### 好文章
 
 对初级开发人员的期望  Website：http://blog.thefirehoseproject.com/posts/expectations-of-a-junior-developer/  
 加速你的编码技巧的关键  Website：http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/  
@@ -226,7 +226,7 @@ Linux 内幕  Website：https://0xax.gitbooks.io/linux-insides/content/Booting/l
 数据结构和算法  Website : 一些算法和数据结构及其解决方案的清单：https://techiedelight.quora.com/500-Data-Structures-and-Algorithms-practice-problems-and-their-solutions  
 编制一个TCP/IP 协议栈  Website : 让我们编制一个 TCP/IP 协议栈 5: TCP 转发：http://www.saminiir.com/lets-code-tcp-ip-stack-5-tcp-retransmission/  
 
-##### 博客
+#### 博客
 
 编程积木 - 忙不停地学习原理、模式和更佳实践  Website：http://www.codingblocks.net/  
 MS Dev Show  Website：http://msdevshow.com/  
@@ -245,7 +245,7 @@ Syntax  Website: Wes Bos 和 Scott Tolinski 给 Web 开发人员的美味的播�
 Developer On Fire  Website : Dave Rael 主持的播客，分享开发人员的博爱精神和软件业中了不起的人物的故事 http://developeronfire.com/episodes  
 Groovy Podcast  Website: Groovy 播客：http://groovypodcast.podbean.com/  
 
-##### 构建简单的编译器/解释器
+#### 构建简单的编译器/解释器
 
 Awesome Compilers  Website : 有关编译器、解释器和运行时相关资源的列表（http://aalhour.com/awesome-compilers/）  
 Resources for Amateur Compiler Writers Amateur :  Website编译器作者的资源（http://c9x.me/compile/bib/）  
@@ -255,7 +255,7 @@ Structure and Interpretation of Computer Programs  Website: 计算机程序的�
 Let’s Build A Simple Interpreter. Part 1:  Website 让我们构建一个简单的解释器（https://ruslanspivak.com/lsbasi-part1/）  
 Growing a compiler  Website 增强一个编译器（http://www.cs.dartmouth.edu/~mckeeman/cs48/mxcom/gem/html/GrowingCompiler.html）  
 
-##### 教程
+#### 教程
 
 Subtle 	Poor Man’s CI Website：了解持续集成平台在 Hood 下是如何工作的，通过使用 Node.js 与 git 构建您自己的应用  
 Tutorialspoint  Website：一个教程网站  
@@ -298,13 +298,17 @@ TCP / IP 系列  Website（https://en.wikipedia.org/wiki/TCP/IP_Illustrated）
 编程，Web 开发和 DevOps 新闻，教程和初学者专家的工具  Website（https://dzone.com/）  
 indradhanush tutotials：写一个 Unix Shell  Website（https://indradhanush.github.io/blog/writing-a-unix-shell-part-3/）  
 
-##### 查看他人的代码
+#### 查看他人的代码
 
 LiveEdu.tv   Website: 那些构建应用、网站、游戏等的人的屏幕录像  
 Twitch.tv   Website: twitch 编程社区  
 
-##### 程序员应该知道什么
+#### 程序员应该知道什么
 
 Programmer Competency Matrix 程序员能力矩阵  Website: 可以获知我们作为程序员所处的级别的文章（sijinjoseph.com/programmer-competency-matrix/）（tips：国内也有人进行了翻译）  
 GitHub.com Build software better, together 让我们一起构建更好的软件  Website : 存放你的项目并与他人协作的地方。  
 Gitlab 提供免费的无限制存储仓库和无限协作方式  Website（https://about.gitlab.com/）  
+
+
+#### 参考文档
+[分享技术人学习有用的国外网站](https://mp.weixin.qq.com/s/LbfkYUbgXgCTXa57QaqEiA)

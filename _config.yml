@@ -18,16 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: mickeygo blog
+email: yanggangc@163.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "https://mickeygo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+# twitter_username: jekyllrb
+github_username:  mickeygo
 
 # Build settings
 theme: minima
@@ -53,3 +53,52 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Build settings
+# 语法高亮
+#highlighter: pygments
+# markdown解释器
+#markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+#relative_permalinks: true
+#博文的链接样式
+permalink: /:year-:month-:day-:title.html
+
+favicon: /assets/image/favicon.ico
+
+# 博客作者相关
+author:
+  name: mickeygo
+  email: yanggangc@163.com
+  link: http://mickeygo.github.io/
+  # weibo: ""
+  # weibo_username: ""
+  github: https://github.com/mickeygo
+  github_username: mickeygo
+
+
+locals:
+  tags: 标签
+  about: 关于
+  active: 技术
+subscribe_rss: /pages/atom.xml
+
+# 头像
+avatar: /assets/image/avatar.png
+# avatar: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/image/favicon.ico
+# 网站CSS路径
+css: /assets/css/
+# css: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/css/
+# 网站JS路径
+js: /assets/js/
+# js: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/js/
+# 网站图片路径
+image: /assets/image/
+# image: http://7xpapo.com1.z0.glb.clouddn.com/blog/assets/image/
+
+# disqus 设置
+disqus:
+  shortname: mickeygo
